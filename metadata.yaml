@@ -1,9 +1,13 @@
 _repo: Cunnie-Rabbit-Mr-Spider-and-the-Other-Beef-West-African-Folk-Tales_48828
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Sichel, Gerald
     gutenberg_agent_id: '44989'
     url: http://www.gutenberg.org/2009/agents/44989
+covers:
+- cover_type: archival
+  image_path: 48828-h/images/cover-image.jpg
 creator:
   authors:
   - agent_name: Cronise, Florence M.
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '44988'
     url: http://www.gutenberg.org/2009/agents/44988
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48828#Cunnie-Rabbit-Mr-Spider-and-the-Other-Beef-West-African-Folk-Tales
 gutenberg_issued: '2015-04-30'
 gutenberg_type: Text
 identifiers:
